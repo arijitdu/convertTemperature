@@ -1,0 +1,15 @@
+.row {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    justify-content: center;
+    margin-top: 7rem;
+}
+
+.row .col-md-6 .card {
+    text-align: center;
+}
+
+.card-body {
+    background-color: blanchedalmond;
+}
